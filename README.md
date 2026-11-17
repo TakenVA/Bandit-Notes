@@ -1,3 +1,2 @@
 # Bandit-Notes
-These are my notes from the OverTheWire Bandit wargame. 
-(NOT FINISHED YET)
+These are my finished notes from the OverTheWire Bandit wargame. 
